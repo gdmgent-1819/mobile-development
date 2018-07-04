@@ -1,14 +1,14 @@
 # Site settings
 # -------------
-baseurl : /html-css # the subpath of your site, e.g. /blog
+baseurl : /mobile-development # the subpath of your site, e.g. /blog
 host    : 127.0.0.1
 port    : 4109
 
 # Course
 # ------
-syllabus-id: 1819-HTML-CSS
+syllabus-id: 1819-MOBILEDEVELOPMENT
 
-hero_introduction : Syllabus voor het onderdeel HTML & CSS
+hero_introduction : Syllabus voor het onderdeel Mobile Development
 hero_image        : /syllabus-resources/assets/images/header-dev.jpg
 words_per_minute  : 60
 
@@ -16,8 +16,8 @@ words_per_minute  : 60
 # ---
 domain      : Artevelde University College Ghent
 subdomain   : Bachelor of Graphical and Digital Media
-title       : HTML & CSS
-description : Syllabus voor het onderdeel HTML & CSS
+title       : Mobile Development
+description : Syllabus voor het onderdeel Mobile Development
 author      : Bachelor of Graphical and Digital Media | Artevelde University College Ghent
 copyright   : Copyright 2010-18 Artevelde University College Ghent. All Rights Reserved.
 
